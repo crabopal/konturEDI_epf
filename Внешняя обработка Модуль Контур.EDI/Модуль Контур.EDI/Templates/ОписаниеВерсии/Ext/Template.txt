@@ -1,0 +1,19 @@
+{
+  "Major": 4,
+  "Minor": 83,
+  "Patch": 1,
+  "MajorMinorPatch": "4.83.1",
+  "PreReleaseTag": "",
+  "PreReleaseLabel": "",
+  "PreReleaseNumber": null,
+  "SemVer": "4.83.1",
+  "FullSemVer": "4.83.1",
+  "AssemblySemVer": "4.83.1.0",
+  "AssemblySemFileVer": "4.83.1.Sha.ea02650",
+  "ShortSha": "ea02650",
+  "Sha": "ea0265080e4ca578ca389540488a975648f0be0b",
+  "VersionSourceSha": "ea0265080e4ca578ca389540488a975648f0be0b",
+  "BuildMetaData": null,
+  "CommitsSinceVersionSource": 0,
+  "CommitDate": "2026-08-26"
+}

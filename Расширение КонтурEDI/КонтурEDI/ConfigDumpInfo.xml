@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.БанковскиеСчетаКонтрагентов" id="ed4af701-1cfd-479a-9e62-a4318af60e5e" configVersion="2e400ed23a4562842b7d2a2a958c20de58628081"/>
+		<Metadata name="Catalog.БанковскиеСчетаОрганизаций" id="5e322fc8-3b34-4e03-9420-a00f869e4ec6" configVersion="1e7dba4d81719e0f67980ba2d68ee966070d54a1"/>
+		<Metadata name="Catalog.Валюты" id="fc7ccf3c-0623-4936-b7d2-d389db799f42" configVersion="f899ae2ab89cff20aa9892736025ccceb9c23fa3"/>
+		<Metadata name="Catalog.ВидыКонтактнойИнформации" id="d80d22f1-354c-4ff0-8b25-ab43a28f114e" configVersion="e7da08e6130cfc8e2a4c36c21ddd0201d85e3fa1"/>
+		<Metadata name="Catalog.ВидыЦен" id="cc8ac26d-e41c-4b92-b467-96d230e8631f" configVersion="198994fecc5bb02eac8afb5d3de503a569c96686"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="fd21d695-0e0a-4160-99c5-a544668b7449" configVersion="804662b722d4024bd28aac76607b95ac5e379f22"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки" id="e5492a4a-7246-4b2d-8bb5-80311d636399" configVersion="05e16b73183035410d0bb7bfb29bdb59a0cecd5e"/>
+		<Metadata name="Catalog.Контрагенты" id="edcc5f1d-722e-4d11-8ac9-f7a6b44935b6" configVersion="4f4de620bd8daef03ed88d34a65c8df47b939be0"/>
+		<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники" id="c6be736d-e74f-42ff-8e65-20294f5212fd" configVersion="e56bd64e962e21531c616d308770b59f0139e600">
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.TabularSection.ДополнительныеРеквизиты.Attribute.Значение" id="0985812b-4bc5-42c4-8ab3-ddf02238027a"/>
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.TabularSection.ДополнительныеРеквизиты.Attribute.ЗначениеСтрока" id="12054293-fd9d-4d9f-8a8d-96800e6a42d3"/>
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.TabularSection.ДополнительныеРеквизиты.Attribute.ИмяРеквизита" id="52188e12-ca96-4b6b-9ac4-7abf8fda4f51"/>
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.Attribute.ИмяСправочника" id="54623e52-3344-4030-a34a-7017cdbc761c"/>
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.TabularSection.ДополнительныеРеквизиты.Attribute.ЗначениеХранилищеЗначения" id="e72b4ba6-70d8-4a67-99ee-2f84622a910e"/>
+			<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.TabularSection.ДополнительныеРеквизиты" id="fa1d7a23-1cb3-4906-9a3c-678039da80d7"/>
+		</Metadata>
+		<Metadata name="Catalog.КонтурEDI_ДополнительныеСправочники.ObjectModule" id="c6be736d-e74f-42ff-8e65-20294f5212fd.0" configVersion="756e4ab02f235b73adbf38d2e33cd02635c2e2f9"/>
+		<Metadata name="Catalog.КонтурEDI_Сообщения" id="b21eb562-89dc-4cc0-8786-d1c32217068e" configVersion="bb09a21bf53856d32ebbfd02a267fe8a12e52f30">
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ДатаЗагрузки" id="085a1621-5e13-4032-b0cc-a4258ec363cc"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ДатаЗаказа" id="0da72f3c-937b-410c-9092-6962ce2bb527"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Партнер" id="1048a153-b8fa-4121-a593-54ec6e2edc07"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Хранилище" id="1151fe11-0612-4850-99e2-011be20bc034"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ДатаДокумента" id="1757aca5-26a0-45b0-a216-2113bb0ed835"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.TabularSection.ДополнительныеРеквизиты.Attribute.ЗначениеСтрока" id="2bb19a98-bf92-4162-8da7-b287e760025a"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ТипСообщения" id="2ea308d2-f5bb-422a-a110-78b0f3abaa10"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Направление" id="4282edf5-e7e6-46d5-8e9f-b3068f47a75b"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.TabularSection.ДополнительныеРеквизиты.Attribute.ИмяРеквизита" id="45d92b51-0712-4f60-9501-b11bfb8265c4"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Статус" id="4b5e6775-ef40-4eff-ad3b-1fb6a27669fc"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.НомерЗаказа" id="5252ea27-f7a1-4bff-ac59-65d0fbdaba90"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ОписаниеОшибки" id="6ea33e49-5465-4e9d-97cb-942510741219"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.НомерСерииЗаказов" id="6f7666c6-3d97-4cf8-a055-78333cd72835"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Документ" id="7fdc0256-dbb1-4082-94bd-1ce2a3aea542"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.TabularSection.ДополнительныеРеквизиты" id="838be8b0-94c1-4b7c-b203-9cd181b56ffc"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Архив" id="91b6d84f-af61-47ed-8d97-847b5ef1fdcc"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Организация" id="a5d8b036-b553-408f-a2f5-6705b3333836"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ID" id="be40199d-c72e-472f-9dfb-b39a84c51cfc"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ОтклоненоОтправителем" id="ca41cb27-1379-4de1-9314-946f2104e8a5"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.Сумма" id="ced522c7-c927-4118-bed3-8777cc8be159"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ТочкаДоставки" id="db0c86bd-d789-45b5-bfb3-c15577a0517c"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ДатаПоставки" id="dbbffb0f-a120-4bf6-a2ec-a5d3716990ce"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ФайлXML" id="e4b0fecf-6bb3-4b27-bb61-f17ab9d24ef9"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.НомерДокумента" id="e71d3fae-f7b6-457e-8aad-97570d136c9b"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.TabularSection.ДополнительныеРеквизиты.Attribute.Значение" id="e7ae7820-842d-4a94-adf8-f1604b5aa37d"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ОтправленоУведомлениеОПрочтении" id="f6333eac-6fb0-4d49-98db-b20ad79493ad"/>
+			<Metadata name="Catalog.КонтурEDI_Сообщения.Attribute.ТребуемоеДействие" id="ffe8cb30-8fd4-48f4-8f12-474becd63833"/>
+		</Metadata>
+		<Metadata name="Catalog.КонтурEDI_Сообщения.ObjectModule" id="b21eb562-89dc-4cc0-8786-d1c32217068e.0" configVersion="63b3ca1b68d0b5be3d87d0eeda02a24c4da3a2dd"/>
+		<Metadata name="Catalog.КонтурEDI_ТочкиДоставки" id="3e3e719a-093d-46da-9dd7-5dacc55de70a" configVersion="0699a0cf64ce09e5100fab7a3073f9e66d6ab2f4">
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.ЗагружатьСообщения" id="00481774-fd7e-437f-aa88-31046e2494f7"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.TabularSection.ДополнительныеРеквизиты.Attribute.Значение" id="1f084c38-a4c0-4ad2-8da1-8b9f49c63304"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.Подразделение" id="457d327e-3d2e-45c3-accc-e1613405960f"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.СвязанныйСправочник2" id="5258fb7d-1942-4a40-b6c0-0ac67ae5c5ba"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.TabularSection.ДополнительныеРеквизиты.Attribute.ИмяРеквизита" id="6325491c-61d6-4275-b16a-19b58bcdd9e8"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.АдресДоставки" id="97dbf8d0-7978-4b03-9b05-dedd21174dab"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.СвязанныйСправочник1" id="b4b81f44-0f55-4f96-8089-be1ff977b736"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.TabularSection.ДополнительныеРеквизиты.Attribute.ЗначениеСтрока" id="ce55372d-d4b1-4e69-9858-1ff009f9b348"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.Партнер" id="d02d61ac-7578-4f8c-9509-778abb85bf1c"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.TabularSection.ДополнительныеРеквизиты" id="ed4f2852-21a8-4dc1-9366-c012d87ea8a1"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.СвязанныйСправочник3" id="edc6ecdb-c98c-409d-a347-7d83662dc137"/>
+			<Metadata name="Catalog.КонтурEDI_ТочкиДоставки.Attribute.GLN" id="f509e120-c8e8-4ec0-a8ec-d2aa441836b8"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="17951b01-61db-44dc-8517-041089fdf959" configVersion="e1f9246761dffaf291345b1dd1ac4e6ac34e566b"/>
+		<Metadata name="Catalog.НомераГТД" id="ae976538-2a0f-40ae-9b24-055b97f899cc" configVersion="9c0b8d9544ebb9ac9be1af6889719b9107a0d793"/>
+		<Metadata name="Catalog.Организации" id="2b48c43d-cc62-405c-941c-8e86463bf239" configVersion="d3f2f65b4d205bdf83dd8216e867cd0d6775c485"/>
+		<Metadata name="Catalog.Партнеры" id="790d54bb-d95e-467f-978a-bba9a5d4f0ab" configVersion="2976623506899ffee154536893017ccffed87db0"/>
+		<Metadata name="Catalog.Пользователи" id="0e514862-7ee3-4031-a108-de0d152e305d" configVersion="b16636b7710951e66073f4802d96bc59906b4b61"/>
+		<Metadata name="Catalog.СерииНоменклатуры" id="0040546a-4287-4344-b7dd-22beb7b74cd8" configVersion="dfc6cc2e64103ac846ec57bb19fa00b48c3cd71c"/>
+		<Metadata name="Catalog.Склады" id="016a93c3-08ed-4965-98c7-821ef4520f13" configVersion="dab4874beedf6b7e6a88471e55d9cde1f89eedea"/>
+		<Metadata name="Catalog.СоглашенияСКлиентами" id="c01932f8-12d2-43c5-881c-51250d371170" configVersion="4a6136ec5e777a8498f848d5fcd343795dedf008"/>
+		<Metadata name="Catalog.СоглашенияСПоставщиками" id="3bb5b32c-89dd-4b3f-b252-6e385f8e9cfc" configVersion="2ab2c8534064480d7b92492a93f8616db8d095a7"/>
+		<Metadata name="Catalog.СтавкиНДС" id="952d982e-3ec9-4996-8c05-aa0fd526ea46" configVersion="75c5b7044fb7368eb1e5de6e7fabfc562b73efaa"/>
+		<Metadata name="Catalog.СтраныМира" id="574c0565-498e-4f83-8213-04d0cf0aaee3" configVersion="6a67e0c5c01db7c58f5cbda260f11ca8816bb299"/>
+		<Metadata name="Catalog.СтруктураПредприятия" id="62071149-395f-466b-b42c-14b97d69275b" configVersion="6b888fbb5cb27a47e03052f952c32c1e9ba53ad9"/>
+		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="594484db-9c11-49e7-a546-29b6b7735d78" configVersion="f48132e8ebbf3122f02aa52d20db436ca2a41b7d"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="d7097ac0-78a0-403c-8c1f-d9f47787a3b7" configVersion="cb6f860c42c7a7324296ba0cdc40e9e1f6ff64b3"/>
+		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="bcfb2b7d-73cf-46ec-9c72-9719a7930190" configVersion="31ca372416ef363fb23a8ba839814659e1f8a5cc"/>
+		<Metadata name="CommonCommand.КонтурEDI_ОткрытьМодульEDI" id="3b5a85c0-ab70-4311-9633-306bf2fc5519" configVersion="6675efc59a37a7421464e8499fc95a1ecfeade19"/>
+		<Metadata name="CommonCommand.КонтурEDI_ОткрытьМодульEDI.CommandModule" id="3b5a85c0-ab70-4311-9633-306bf2fc5519.2" configVersion="c123a3e25dbdf54b38b297674ddb5bf658e95aa6"/>
+		<Metadata name="CommonForm.КонтурEDI_НастройкаПодключенияМодуля" id="4789f62b-c00e-45e3-8bb2-37c8f7a90742" configVersion="0dfcc9b71e3ec7c2df5a757854b10b3204af380b"/>
+		<Metadata name="CommonForm.КонтурEDI_НастройкаПодключенияМодуля.Form" id="4789f62b-c00e-45e3-8bb2-37c8f7a90742.0" configVersion="580708530efeb2ddbab46f090073c5e46116d038"/>
+		<Metadata name="CommonModule.КонтурEDI_Криптография" id="6892dac3-3d73-45d2-818f-19c01885febc" configVersion="861ef2199107ebe32c6baab41ba6d9f123073d4d"/>
+		<Metadata name="CommonModule.КонтурEDI_Криптография.Module" id="6892dac3-3d73-45d2-818f-19c01885febc.0" configVersion="cbdd92378bca51ed215f63f72b57959a537b3710"/>
+		<Metadata name="CommonModule.КонтурEDI_Регламент" id="17ea0524-a220-454e-8035-89b6d16e7bb1" configVersion="d74a742b8173c99f6d60d32e7c4ee9f673dd2dfd"/>
+		<Metadata name="CommonModule.КонтурEDI_Регламент.Module" id="17ea0524-a220-454e-8035-89b6d16e7bb1.0" configVersion="ce1608e9d8a6c051032d522bb0eec98e66877d39"/>
+		<Metadata name="CommonModule.КонтурEDI_СистемаХраненияВызовСервера" id="91d1d6e3-8717-4bf4-ada4-9db754f19554" configVersion="7754c8d2c2fa0c001b4ef63e4b4c87f920fce247"/>
+		<Metadata name="CommonModule.КонтурEDI_СистемаХраненияВызовСервера.Module" id="91d1d6e3-8717-4bf4-ada4-9db754f19554.0" configVersion="ae3ce2561a1f49846efc2355dbf7bb7fed64c197"/>
+		<Metadata name="CommonPicture.КонтурEDI_Логотип" id="a0920c0a-25e8-4809-aac4-f5f9fc3f023d" configVersion="ce7b3a807e3169d0437dac6946438c25c23a544f"/>
+		<Metadata name="CommonPicture.КонтурEDI_Логотип.Picture" id="a0920c0a-25e8-4809-aac4-f5f9fc3f023d.0" configVersion="6890b19933c9a428be78e83732b69b2370004ec3"/>
+		<Metadata name="CommonPicture.КонтурEDI_Логотип16" id="92abf87d-473f-4624-8b53-470610cd3a51" configVersion="5490d6fab6781ae95253aff00635bd8b99a29bd1"/>
+		<Metadata name="CommonPicture.КонтурEDI_Логотип16.Picture" id="92abf87d-473f-4624-8b53-470610cd3a51.0" configVersion="6890b19933c9a428be78e83732b69b2370004ec3"/>
+		<Metadata name="Configuration.КонтурEDI" id="b5d07d76-c02f-41ae-9f74-c4af256ff531" configVersion="663c0010b7dc044f1e9f5763a544b2be4f8d0afb"/>
+		<Metadata name="Document.ВозвратТоваровОтКлиента" id="009b9773-c195-440d-be03-b2d926e5eff7" configVersion="3480afc4798b84896225a8d3d29a5f5ceeb73af3"/>
+		<Metadata name="Document.ВозвратТоваровПоставщику" id="b2f67375-4bd2-4af5-970b-08b07defc15a" configVersion="3de216871cbb15c141ed60ea81ffd8205baf2dc1"/>
+		<Metadata name="Document.ЗаказКлиента" id="94ed786b-ffb1-4b46-9792-0157de474f6e" configVersion="0688e443af5425db777fb5bdea62fe8016ffb083"/>
+		<Metadata name="Document.ЗаказПоставщику" id="0a7d9e2e-b28e-41ba-bc13-e42c45642ab2" configVersion="9b201d9dbc867b09d0c8ba9798c5aeea7f5fbda5"/>
+		<Metadata name="Document.КорректировкаРеализации" id="0784cc7a-e42e-4a2c-addd-ad5e66ebcc3a" configVersion="7dec429a4b914e0f6581e1b9dd1464d0ddfcb5d0"/>
+		<Metadata name="Document.ПриобретениеТоваровУслуг" id="a29e1a46-84d2-48db-bb68-114ae16350f8" configVersion="7fcead58dc23bb10e8e308177cfecc16e64a669f"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="465798c4-5599-4b80-aa10-2ac9cd4fa93c" configVersion="d8629b8feefbc920c85efd160171f3c189dfeba3"/>
+		<Metadata name="Document.СчетФактураВыданный" id="26278db8-1b4b-48af-9429-41d30dc91c95" configVersion="a205296479a22dddbf5d59eacf123c79f620a3d9"/>
+		<Metadata name="Document.СчетФактураПолученный" id="56d036d8-d520-4ba0-9279-3bad5e137d2a" configVersion="2987c4386a951afbd18a3a4af7226adf454eb7b6"/>
+		<Metadata name="Enum.СтавкиНДС" id="9271b35b-b57a-456b-9660-0601e108e0ac" configVersion="a347c92157a01e1920f60b4117345c0b52e41e25"/>
+		<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты" id="81ca0471-8c0b-44a0-8319-f1d81172c4b6" configVersion="c24905794d3b88e1870030be05acba7f14594c87">
+			<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты.Dimension.Свойство" id="4e923cd5-46b8-46b9-91f9-821a353af86d"/>
+			<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты.Dimension.Объект" id="885891a5-2d88-4a78-a65e-a3df1145723f"/>
+			<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты.Resource.ЗначениеСтрока" id="a7a16417-55a0-4f2a-8f32-e1984f6cdabc"/>
+			<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты.Resource.Значение" id="ce83dbf7-febf-4611-b77b-cd877f69b378"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КонтурEDI_ДополнительныеРеквизиты.RecordSetModule" id="81ca0471-8c0b-44a0-8319-f1d81172c4b6.1" configVersion="f760ba4360b70bdc58b4fde844a5903dcc673080"/>
+		<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров" id="ce78ac6c-aa54-4abd-a123-81a41aeb1402" configVersion="725d77120496d673b2263f4c5becdd218bdd2aee">
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Attribute.ОсновноеСоответствие" id="048716d6-b88f-4cf7-a899-8d116f256942"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Resource.GTIN" id="05688ea9-7bde-4f41-a90f-c87198ace73c"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.Контрагент" id="2809aa15-74dd-43c9-8d6e-11ee64a79786"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.ХарактеристикаНоменклатуры" id="4c7865f4-4078-406c-abdc-956d3fc6191c"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.Единица" id="62e7f4e9-7978-422a-b5ff-6cf63a6b3e53"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.ЕдиницаEDI" id="b1acb541-5e01-44ce-800c-c306f39afe7f"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.Партнер" id="b9dcabf1-90ab-48a5-868e-68788a27443d"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.Номенклатура" id="bde6e92f-1e3e-493a-aa0e-4ab583df93ca"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Resource.КоэффициентEDIВ1С" id="da00eb28-6aa2-4e01-ba5a-49c420f12734"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Resource.НаименованиеПартнера" id="e42f82a7-8905-44da-b762-980d011470a5"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Attribute.ТипЕдиницы" id="efd57ad3-b0e0-44d8-9a99-1582ae0d56b7"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Dimension.Договор" id="fd59263c-8afd-4fd4-b5b3-25a07eb0a700"/>
+			<Metadata name="InformationRegister.КонтурEDI_СоответствияТоваров.Resource.КодТовараПартнера" id="fe8263dc-dc22-4892-8386-701ba3b643de"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КонтурEDI_Статистика" id="1490311d-5b43-4813-a984-f964e20702f5" configVersion="8d904aaa84f9a5dac2242f6172cfe481140d3922">
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.НомерЗаказа" id="0cdc1962-966e-4ab4-886b-802842aa8282"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.ДатаЗаказа" id="0ddbb4a6-5101-4d33-bef9-ac3c0a3f33e3"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.Наименование" id="15e39347-3110-4ac0-8d7e-4f52c769b144"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.СтатусСтрокиТоваров" id="2af73902-a5bd-40cf-8e62-ee1735dc2fa5"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.СообщениеСсылка" id="3f66678c-461c-4e8c-a0d9-b5183d508258"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ЕдиницаEDI" id="4148a61d-00c3-4ef3-bf5a-47aaa33b6a0f"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.Организация" id="506d6ef9-d0b4-4d89-8809-bd473f193f05"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.КодТовараПокупателя" id="51a03864-9f02-4346-831b-3f36149b3c71"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.НомерСтрокиТоваров" id="540f7966-9817-43b5-8d0e-5450d256ec9d"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.Пользователь" id="56f8cf8d-35c2-4c00-8d0d-4b2249d16906"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.ТипСообщения" id="7ec3d6b5-d01b-441b-a051-5f8a6cad4bbe"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.ТочкаДоставки" id="88c0352b-728f-452a-bb2b-c39c520b1a93"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.GTIN" id="a38f25ed-0cb2-4170-a941-8264c578c4b3"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.КодТовараПоставщика" id="a7b4a822-149e-4c06-b6c0-788ff12364fb"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.Направление" id="aac20d80-d895-4d5d-88bf-4fe77433d951"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.Статус" id="b0180ee2-7016-434b-b178-5399eddd4e86"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Resource.СуммаСНДС" id="d0663ffc-4aaf-465a-948e-ed1826d8b941"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ЦенаСНДС" id="d3249c91-b6a6-4103-8cb3-c632d8360270"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Resource.СуммаБезНДС" id="d4995a09-1ec4-4d47-a6b0-8e3c29ff25f2"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.Документ1С" id="e0037eda-0675-4e4f-a1a8-1ec8d2916217"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ДатаПоставки" id="e350107e-703f-4ecb-a081-3310ca3cb198"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.Номенклатура" id="e6f27991-0f9d-4971-91c1-c5e21afffc50"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ЦенаБезНДС" id="ee11470f-0bab-4535-9a74-c39a64399e95"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Dimension.Партнер" id="f60e8a79-b893-4978-a626-c2ce392cb568"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ДатаЗаписи" id="f84105bf-d8dd-4b0a-8ad1-6ad427aba75f"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Resource.Количество" id="fa223ce0-d472-494d-9cfa-059812bee17f"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Attribute.ЕдиницаИзмерения" id="fc394e1f-80a1-4eab-92a7-084e408ce675"/>
+			<Metadata name="InformationRegister.КонтурEDI_Статистика.Resource.СуммаНДС" id="fdd31662-cd1c-4fdf-876f-4b1d6d76f198"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КонтурEDI_Статистика.RecordSetModule" id="1490311d-5b43-4813-a984-f964e20702f5.1" configVersion="d8b75ef1954c1d571dcc28d1aa08a04935addcdd"/>
+		<Metadata name="InformationRegister.КонтурEDI_СтатусыДокументов" id="b405ab50-ac3e-4e44-a30f-48103d62328f" configVersion="a47f72fda62852e7c1427e2cd78ca2f954b690dc">
+			<Metadata name="InformationRegister.КонтурEDI_СтатусыДокументов.Dimension.ИмяСтатуса" id="3e73c298-623a-409a-8cd7-8c2b527ed742"/>
+			<Metadata name="InformationRegister.КонтурEDI_СтатусыДокументов.Dimension.Документ" id="e905484a-f8bd-4a76-bc9e-1c66ec8be6a7"/>
+			<Metadata name="InformationRegister.КонтурEDI_СтатусыДокументов.Resource.Статус" id="fa8b1046-2321-4cf2-b086-f2abc3428cb3"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КонтурEDI_СтатусыДокументов.RecordSetModule" id="b405ab50-ac3e-4e44-a30f-48103d62328f.1" configVersion="3bc8f5f460721f9c48450490680d4630b2fbd0b3"/>
+		<Metadata name="Language.Русский" id="b412bc6b-6c68-4512-ad9b-2838865c46e9" configVersion="15ed13dccbd6ce4f127ef52e77b7c593ca8fc6d7"/>
+		<Metadata name="Report.КонтурEDI_АнализДанных" id="dae025a0-4b87-4ccc-a6fa-dc806a49dd6a" configVersion="9995106bf09ed4cb8f4863afc6f9764f4df18e5a"/>
+		<Metadata name="Report.КонтурEDI_АнализДанных.ObjectModule" id="dae025a0-4b87-4ccc-a6fa-dc806a49dd6a.0" configVersion="7b7537354adba6f9e58b5e6873d6dfabbce7e4dc"/>
+		<Metadata name="Report.КонтурEDI_АнализДанных.Template.ОсновнаяСхемаКомпоновкиДанных" id="69999b50-15fe-474f-bd33-56f7f2fac711" configVersion="e84b077729b46629f9949c91287cb7edc19ea8da"/>
+		<Metadata name="Report.КонтурEDI_АнализДанных.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="69999b50-15fe-474f-bd33-56f7f2fac711.0" configVersion="48101b54916c20e8e4f66fe337eba9b3a0e4a40a"/>
+		<Metadata name="Role.КонтурEDI_Пользователь" id="10dc7da5-3e4e-4bbb-99df-331b304c02f4" configVersion="35be6f578fc3899605c12a3527eb53ec88158f4c"/>
+		<Metadata name="Role.КонтурEDI_Пользователь.Rights" id="10dc7da5-3e4e-4bbb-99df-331b304c02f4.0" configVersion="5338e9836f666e7537899d883f2fdd0dfb27577f"/>
+		<Metadata name="Role.КонтурEDI_ПродвинутыйПользователь" id="8b85680e-1a9b-4fc8-b4e4-bff1f5069707" configVersion="1b979a2251a6f4501f02983e6c3fa91a4fc023b0"/>
+		<Metadata name="Role.КонтурEDI_ПродвинутыйПользователь.Rights" id="8b85680e-1a9b-4fc8-b4e4-bff1f5069707.0" configVersion="82d1734962320c2be4b5b435624c58f94132eef0"/>
+		<Metadata name="Subsystem.КонтурEDI" id="2ccf5e6e-804f-46ea-8f71-cf2c2dc8bafa" configVersion="d4bdc8c4c4972161a0b475c7b8685226fa88520c"/>
+		<Metadata name="Subsystem.КонтурEDI.CommandInterface" id="2ccf5e6e-804f-46ea-8f71-cf2c2dc8bafa.1" configVersion="6f5e58d285934006badb53734afc087545af6eaf"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
